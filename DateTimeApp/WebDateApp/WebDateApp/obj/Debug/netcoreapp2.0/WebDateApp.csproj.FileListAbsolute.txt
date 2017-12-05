@@ -1,0 +1,11 @@
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\bin\Debug\netcoreapp2.0\WebDateApp.deps.json
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\bin\Debug\netcoreapp2.0\WebDateApp.runtimeconfig.json
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\bin\Debug\netcoreapp2.0\WebDateApp.runtimeconfig.dev.json
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\bin\Debug\netcoreapp2.0\WebDateApp.dll
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\bin\Debug\netcoreapp2.0\WebDateApp.pdb
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\obj\Debug\netcoreapp2.0\WebDateApp.csprojResolveAssemblyReference.cache
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\obj\Debug\netcoreapp2.0\WebDateApp.csproj.CoreCompileInputs.cache
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\obj\Debug\netcoreapp2.0\WebDateApp.AssemblyInfoInputs.cache
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\obj\Debug\netcoreapp2.0\WebDateApp.AssemblyInfo.cs
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\obj\Debug\netcoreapp2.0\WebDateApp.dll
+c:\users\sentinel\source\repos\WebDateApp\WebDateApp\obj\Debug\netcoreapp2.0\WebDateApp.pdb
